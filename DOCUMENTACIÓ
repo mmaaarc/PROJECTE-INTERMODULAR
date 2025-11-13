@@ -1,0 +1,189 @@
+# Membres del Grup
+- Jordi Cervera
+- Joan Bertomeu
+- Ilyas
+- Marc Baiges
+
+**Grup:** 5
+**Professors:** José Diego Cervellera Forcadell, Victor Manuel Cid Castellà, Marc Fuertes Díez  
+**Lloc:** Institut de l'Ebre  
+**Data Projecte:** 07-11-2025  
+
+---
+
+## Índex
+1. [Introducció](#introducció)  
+2. [Pla d'Empresa](#pla-dempresa)  
+   1. Resum Executiu  
+   2. Missió, Visió i Valors  
+   3. Anàlisi del Mercat i Oportunitat  
+   4. Serveis i Productes  
+   5. El Nostre Diferencial  
+   6. Clients Objectiu  
+3. [Anàlisi del Mercat](#anàlisi-del-mercat)  
+   1. Llistat D’ocupacions que Corresponent a L’Àrea D’Interès  
+   2. Perfils de l’Oferta d’Ocupació  
+   3. Tendències en el Volum de Contractació  
+4. [Contracte de Prestació de Serveis d'Auditoria de Seguretat Informàtica](#contracte-de-prestació-de-serveis-dauditoria-de-seguretat-informàtica)  
+
+---
+
+## Contingut presentació
+- Currículums dels companys  
+- Kanban flow i unitat compartida  
+- Anàlisi de mercat  
+- Formació complementària  
+- Contracte simbòlic  
+- Landing Page  
+
+---
+
+## Introducció
+En aquest projecte hem format una empresa anomenada **Ebresafe**, relacionada amb el sector de la ciberseguretat.  
+L’objectiu del projecte és realitzar una sèrie d'anàlisis de seguretat al servidor d'una empresa que escollirem.  
+Prèviament, haurem de fer una sèrie de repartiment de tasques, rols, anàlisi de riscos i recerca de competències al terreny.
+
+---
+
+## Pla d'Empresa
+
+### 1. Resum Executiu
+**Ebresafe** és una empresa especialitzada en serveis d'auditoria de seguretat informàtica, amb seu a Tortosa.  
+La nostra missió és protegir els actius digitals d'empreses i institucions, principalment a Catalunya i les Terres de l'Ebre, identificant vulnerabilitats i oferint plans d'acció clars i efectius.
+
+**Diferencials:**  
+- Proximitat al client  
+- Ús d'eines tecnològiques pròpies, incloent una aplicació d'escaneig desenvolupada en Python, per auditories personalitzades.
+
+### 2. Missió, Visió i Valors
+**Missió:** Protegir el teixit empresarial i institucional del territori davant les ciberamenaces.  
+**Visió:** Ser l'empresa de referència en ciberseguretat per a PIMES i institucions a Catalunya, reconeguda per la nostra expertesa, integritat i innovació.  
+**Valors:**  
+- Confidencialitat: clàusules de 5 anys.  
+- Rigor Tècnic: lideratge de Joan Bertomeu Colomé.  
+- Innovació: eines pròpies.  
+- Proximitat: tracte directe i personalitzat.
+
+### 3. Anàlisi del Mercat i Oportunitat
+- **Problema:** Les PIMES i institucions locals no tenen recursos suficients per protegir-se.  
+- **Demanda:** La ciberseguretat és una "demanda crítica i creixent". Taxa d'atur pròxima al 4%.  
+- **Oportunitat:** Servei expert i de proximitat per institucions educatives, ajuntaments i PIMES.
+
+### 4. Serveis i Productes
+**Auditoria de Seguretat Informàtica:**  
+- **Objectiu:** Identificar vulnerabilitats, avaluar riscos i proposar mesures correctores.  
+- **Abast:** Xarxes locals, servidors web, bases de dades i aplicacions.  
+- **Metodologia:** Eina pròpia Python i eines estàndard.  
+
+**Test d'Intrusió (Pentesting):**  
+Simulació d'atacs controlats dins l'abast pactat.  
+
+**Informe Final:**  
+- Resum Executiu  
+- Resultats Detallats  
+- Proves de Concepte (PoC)  
+- Pla d'Acció Prioritzat
+
+### 5. El Nostre Diferencial
+- Eina pròpia (Python)  
+- Enfocament local a Tortosa  
+- Equip expert  
+- Preus competitius (ex. auditoria de 10 dies per 5.500 €)
+
+### 6. Clients Objectiu
+- Institucions Educatives  
+- PIMES amb dades sensibles  
+- Administració Pública Local  
+
+---
+
+## Anàlisi del Mercat
+
+### 1. Llistat D’ocupacions
+- Desenvolupador de software (Backend, Frontend, Full Stack)  
+- Tècnic en ciberseguretat (Analista SOC, Pentester)  
+- Especialista en cloud computing (Arquitecte Cloud, Engineer DevOps)  
+- Administrador de xarxes  
+
+### 2. Perfils de l’Oferta d’Ocupació
+- Alta demanda: taxa d'atur ~4%  
+- Salari inicial: 30.000–35.000 € bruts anuals  
+- Contractes indefinits, teletreball parcial, formació contínua  
+- Competències: Java, Python, JavaScript, SQL/NoSQL, metodologies àgils, pensament crític  
+- Perfil: Titulació superior, certificacions tècniques (AWS, CISSP), anglès C1  
+- Funcions: desenvolupament de software, administració de sistemes, implantació de mesures de seguretat, DevOps
+
+### 3. Tendències en el Volum de Contractació
+- Ocupació elevada: programadors, administradors de sistemes i xarxes  
+- Índexs de creixement: Analista de Dades, Enginyer IA/ML, Especialista Cloud, Tècnic en Ciberseguretat
+
+### 4. Noves i Emergents Ocupacions
+| Ocupació | Competències Clau | Potencial |
+|----------|-----------------|-----------|
+| Enginyer d’IA i ML | Python, TensorFlow, PyTorch, NLP | Aplicació transversal en salut, finances, logística |
+| Especialista Blockchain | Solidity, Ethereum, Hyperledger | Creixement ràpid en FinTech, logística, administració pública |
+| Consultor en Sostenibilitat Digital | Eficiència energètica, optimització IT, petjada de carboni | Alta demanda futura alineada amb ODS i regulacions ESG |
+
+### 5. Resum de Competència Empresarial
+| Nom de l’empresa | Població | Web | Serveis Clau | Col·lectiu Prof. |
+|-----------------|----------|-----|--------------|----------------|
+| Everis (NTT Data) | Barcelona / Madrid | nttdata.com | Consultoria TIC, desenvolupament, outsourcing | Graduats universitaris, professionals TIC |
+| Capgemini | Barcelona (Sant Cugat) | capgemini.com | Consultoria tecnològica, Cloud, IA | Enginyers, analistes de dades |
+| Inetum | Barcelona / Madrid | inetum.com | Serveis digitals, ciberseguretat, ERP | Professionals TIC amb experiència |
+| ThoughtWorks | Barcelona | thoughtworks.com | Metodologies àgils, transformació digital | Desenvolupadors sènior, consultors d'arquitectura |
+| Telefónica Tech | Madrid / Barcelona | telefonica.com/tech | Ciberseguretat, serveis Cloud, IoT, Big Data | Professionals STEM amb focus en seguretat |
+
+---
+
+## Contracte de Prestació de Serveis d'Auditoria de Seguretat Informàtica
+
+**Reunits:**  
+A Tortosa, el 20 d’octubre de 2025
+
+**D'UNA BANDA:**  
+Joan Bertomeu Colomé, en nom de **ebresafe** (EL PRESTADOR)
+
+**DE L'ALTRA BANDA:**  
+José Diego Cervellera Forcadell, en nom de **Institut de l'Ebre** (EL CLIENT)
+
+### Exposen
+1. EL CLIENT necessita una auditoria de seguretat dels seus sistemes.  
+2. EL PRESTADOR disposa de coneixements tècnics i eines pròpies (Python) per dur-la a terme.  
+3. Ambdues parts formalitzen el present contracte.
+
+### Clàusules
+
+#### PRIMERA: Objecte del contracte
+Prestació d'un servei d'auditoria de seguretat informàtica per identificar vulnerabilitats, avaluar riscos i proposar mesures correctores.
+
+#### SEGONA: Delimitació de l’abast
+- **Inclosos:** Xarxa local (LAN), servidor web principal, servidor de bases de dades, execució d’eina pròpia.  
+- **Exclosos:** Dispositius personals, sistemes de control d’accés físic, serveis allotjats per tercers, enginyeria social, xarxa d’aula/tallers.
+
+#### TERCERA: Funcions i permisos
+- Realitzar escanejos amb compte temporal de només lectura.  
+- No modificar dades, fer DoS/DDoS, explotar vulnerabilitats més enllà de verificació no intrusiva, divulgar credencials.  
+- Notificar immediatament vulnerabilitats crítiques.
+
+#### QUARTA: Confidencialitat
+- Obligació de confidencialitat sobre tota la informació, fins 5 anys després de finalitzar el contracte.  
+- Esborrament segur de totes les dades un cop lliurat l’informe.
+
+#### CINQUENA: Lliurament de l’informe final
+- Termini màxim: 10 dies hàbils després de l’auditoria.  
+- Inclou: Resum Executiu, Metodologia, Resultats Detallats, PoC, Recomanacions i Pla d’Acció.
+
+#### SISENA: Durada i Preu
+1. Durada: 10 dies hàbils (4–15 novembre 2025), lliurament informe fins 29 novembre 2025.  
+2. Preu: 5.500 € + IVA  
+3. Pagament: 50% a la signatura, 50% al lliurament de l’informe.
+
+#### SETENA: Llei Aplicable i Jurisdicció
+- Legislació espanyola, Jutjats i Tribunals de Tortosa.
+
+**Signatures:**
+
+| Per ebresafe (EL PRESTADOR) | Per Institut de l’Ebre (EL CLIENT) |
+|-----------------------------|-----------------------------------|
+| Joan Bertomeu | José Diego Cervellera |
+| Director de ciberseguretat | Cap Departament Informàtic |
