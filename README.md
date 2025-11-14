@@ -10,9 +10,7 @@
 
 **Data Projecte:** 07-11-2025
 
-
 <img width="1024" height="1024" alt="Ebresafe" src="https://github.com/user-attachments/assets/06ff1b09-0ed2-4979-ba6a-b380f92eee0d" />
-
 
 Índex
 
