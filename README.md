@@ -4,7 +4,7 @@
 
 **Grup:** 1
 
-**Professors:** José Diego Cervellera Forcadell, Victor Manuel Cid Castellà, Marc Fuertes Díez
+**Professors:** José Diego Cervellera Forcadell, Victor Manuel Cid Castellà, Joan Pasqual Almudeve
 
 **Lloc:** Institut de l'Ebre
 
